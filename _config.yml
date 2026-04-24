@@ -36,7 +36,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-redirect-from
-  - jekyll-feed
   - jekyll-include-cache
 
 # Exclude from processing.
