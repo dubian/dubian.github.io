@@ -21,7 +21,9 @@
 title: Delusions of Sobriety
 email: eric.a.labelle@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Awesome stories and reflections on the topic of sobriety, reality and life by someone who won't even pretend to be thinking clearly.
+  Awesome stories and reflections on the topic of sobriety, 
+  reality and life by someone who won't even pretend to be 
+  thinking clearly.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
