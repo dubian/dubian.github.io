@@ -1,0 +1,22 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Jekyll Serve",
+            "type": "shell",
+            "command": "C:\\ProgramData\\rvm\\envs\\ruby-3.3.11\\bin\\bundle.bat",
+            "args": [
+                "_4.0.10_",
+                "exec",
+                "jekyll",
+                "serve",
+                "--livereload"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "isBackground": true,
+            "problemMatcher": []
+        }
+    ]
+}

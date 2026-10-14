@@ -1,0 +1,26 @@
+{
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": {
+        "comments": true,
+        "strings": true
+    },
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+
+    "[markdown]": {
+        "editor.wordWrap": "on",
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+    },
+
+    "files.exclude": {
+        "**/_site": true,
+        "**/.jekyll-cache": true,
+        "**/.sass-cache": true
+    },
+
+    "search.exclude": {
+        "**/_site": true,
+        "**/.jekyll-cache": true,
+        "**/.sass-cache": true
+    }
+}
